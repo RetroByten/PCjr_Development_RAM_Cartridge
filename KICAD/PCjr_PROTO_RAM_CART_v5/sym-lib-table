@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCjr_PROTO_RAM_CART_symbol_lib")(type "KiCad")(uri "${KIPRJMOD}/LIB/SYMBOL/PCjr_PROTO_RAM_CART_symbol_lib.kicad_sym")(options "")(descr ""))
+)
